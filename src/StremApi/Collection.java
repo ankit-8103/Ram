@@ -30,7 +30,7 @@ public class Collection {
 //	Ag.set(2,"ram");
 //	System.out.println(Ag);
 //	
-//	
+// ajay motwani
 		LinkedList<String>Ag=new LinkedList<String>();
 		
 		Ag.add("anshu");
